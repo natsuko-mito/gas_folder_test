@@ -1,4 +1,5 @@
 function myFunction() {
+  // テストファイル
   var testStr = "あああああ"; 
   var regex = new RegExp(/.*_/);
   var result = testStr.match(regex);
